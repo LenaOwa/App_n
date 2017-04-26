@@ -1,0 +1,3 @@
+application_app_task_homepage:
+    path:     /
+    defaults: { _controller: ApplicationAppTaskBundle:Default:index }
